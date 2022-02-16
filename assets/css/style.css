@@ -57,12 +57,15 @@
    .active { 
        border-bottom: 1px solid #3a3a3a;
    }
+
+
    
    #hero-outer { 
        height: 600px;
        width: 100%;
        overflow: hidden;
        position: relative;
+       padding-top: 10px;
    }
    
    #cover-text, cover-text h2 {
